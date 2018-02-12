@@ -14,9 +14,7 @@ npm run dev
 (Please report any errors stop the server to start.)
 
 # Start Coding
-1. use **/client/routes/index.js** as a start point
-2. check **/client/routes/AboutView/index.js** as a page route 'http://localhost:3000'
-
+use **/client/main.js** as a start point
 
 # Reference:
 * https://facebook.github.io/react/
