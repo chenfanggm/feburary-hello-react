@@ -19,3 +19,11 @@ node -v
 
 1. install through installer
 https://nodejs.org/en/download/current/
+
+## Install Git
+```
+brew install git
+```
+
+## Source Code
+https://github.com/chenfanggm/feburary-hello-react
