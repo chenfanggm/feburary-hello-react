@@ -7,7 +7,7 @@ const render = () => {
     <div>Hello React</div>,
     document.getElementById('root')
   );
-}
+};
 
 // Dev tool
 if (__DEV__) {
@@ -17,4 +17,4 @@ if (__DEV__) {
 }
 
 // Go!
-render()
+render();
